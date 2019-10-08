@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/r8t3d
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://luke.onl
+  * I am r8t3d (https://keybase.io/r8t3d) on keybase.
+  * I have a public key with fingerprint F834 64DB 8882 FB8F A5AB  D359 01E4 ACC2 F484 1164
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010299a8a168683ff0c7f13af1e47d6510ed94c1d1aea9e5107c8a6faafdf5c0fb0a",
+      "fingerprint": "f83464db8882fb8fa5abd35901e4acc2f4841164",
+      "host": "keybase.io",
+      "key_id": "01e4acc2f4841164",
+      "kid": "01010299a8a168683ff0c7f13af1e47d6510ed94c1d1aea9e5107c8a6faafdf5c0fb0a",
+      "uid": "b22ca84b5fbcde514b994efbafa19c19",
+      "username": "r8t3d"
+    },
+    "service": {
+      "hostname": "luke.onl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1570562840,
+  "expire_in": 157680000,
+  "prev": "e4cb511ee6d7ec4ae5e01d0f471b27740e277b0a4a1522a409a13b13f7dd78dc",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD5HM0m6UUFBN9pOEXWKnT2zu7Mn6fLQDYMs6KbmNrMzo5u6
+e9qzx0tWQj0UViTVUzfrIbKbUElFShe1ooJKg6L7DXwISozIHrrNij312gzM8H/z
+fd/8/8/fPiQ9lBV+XLPz5IGa1PTw/Zt1qdC6wx/GVEvEpVVSvFoqYX0XK6Us6Zsl
+NpXikgzEVgwDIww0pKEY57KlcxDDHDCoU00FMqMGtAAFmGGDiVi3ENY4xpxy1ZI5
+kbEUlbjtFDEv4dmOL2w5ikENUoIQUjhBHKuY0JhqyMIUW5bCIYIAaFAIi91koBDJ
+EZxks2xXYCIw+9P7h/+f80712RFFsTCCROXEooILiWFAxgnmGBgWMAJiknkOLmOC
+7SE/RqUtUUlA5bbFgq4GZfQ/l6ZK2CzXKRWihOf6ruWWCrTY9xPJeKDyqxIBrYIR
+s9/AJLZDRQOFopx5Sdt1pDgQTMu3A0eg6rKqKQjKUYlVJmyPmbbTB2tIFiv4h5UL
+SwYtogLAmEZ1ZkHMVCYDKnOoA6LoOpSZOEXdEANVUTCUDQxiBMS4TqmOqCUFJW10
+XCkORZq4SFgm7SIH+ymPSVtabxQMCIWzQgMz0oLBCmUNGv533Jrimb+kdnvb4Yu3
+a7++e1Z39Xre0O3zpzZUf6oYudpEev75JzfO7pmTsaatvrb3cUHD50jh6Ejamc/7
+1z0yD11ZennwVjR/+ZPiph/3xhVuiza2lVVuyP040Cgwv+flV/yKzmi9unsuKht7
+6v6xhTsiOW9vy5GenLL3abcWbHpd+PBb3bI7KglPqRrxu6Vx5njz3JvseatycWPG
+9YkZR5aF1Wu99V3TtOa1rW/llae/LEp2dB/vehn62Zu/68KDpzO6ViycsOfH7OZh
+m83J+194+qsT2SUd2SvXH1zybvzRU51z0IHMaPeF7emLh7Vmru85uyGdolFa+pJn
+kZae2uYBk/bW7Hv4/G7nxUvj/gAB30CS
+=cdtc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r8t3d
+
+==================================================================
